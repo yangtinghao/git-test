@@ -2,6 +2,6 @@ package com.git;
 
 public class gitTest {
     public static void main(String[] args) {
-        System.out.println("hello git4");
+        System.out.println("hello git6");
     }
 }
